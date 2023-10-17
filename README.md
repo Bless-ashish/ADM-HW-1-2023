@@ -7,8 +7,12 @@
   >  `Problems-solutions.ipynb` contains the combined script of all the problem containing subparts as
    -Markdown Cell contains Problem Heading
    -Followed by individual Code for the problem.
+
+2. __`Single pdf of the notebook `__:
+  >  `Problems-solutions.pdf` contains the combined script in a pdf form
+
    
-2. __`Submissions`__:
+3. __`Submissions`__:
 
   > The file named as `Submission.pdf` conatains the required screenshots of the Hacker Rank Submission Page.
 
